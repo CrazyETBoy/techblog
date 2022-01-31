@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on T.Note</title>
+    <link>https://ifile.app/tags/</link>
+    <description>Recent content in Tags on T.Note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Jan 2022 10:00:00 +0800</lastBuildDate><atom:link href="https://ifile.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>actions</title>
+      <link>https://ifile.app/tags/actions/</link>
+      <pubDate>Fri, 28 Jan 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://ifile.app/tags/actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://ifile.app/tags/github/</link>
+      <pubDate>Fri, 28 Jan 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://ifile.app/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>helloworld</title>
+      <link>https://ifile.app/tags/helloworld/</link>
+      <pubDate>Fri, 28 Jan 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://ifile.app/tags/helloworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://ifile.app/tags/git/</link>
+      <pubDate>Tue, 18 Jan 2022 13:02:41 +0800</pubDate>
+      
+      <guid>https://ifile.app/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://ifile.app/tags/hugo/</link>
+      <pubDate>Fri, 14 Jan 2022 13:00:00 +0800</pubDate>
+      
+      <guid>https://ifile.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
